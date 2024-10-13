@@ -6,8 +6,8 @@ title: 张天雨
 name_pronunciation: Tianyu Zhang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Tianyu
+last_name: Zhang
 
 # Status emoji
 status:
