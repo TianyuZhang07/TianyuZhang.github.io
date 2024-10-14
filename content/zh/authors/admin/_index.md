@@ -88,7 +88,7 @@ education:
       •	导师：梁肖副教授     
       •	毕业设计：基于VR方法的连续非机动车道服务水平研究     
       •	研究方向：非机动车道；服务水平；VR方法；符号回归算法；服务水平评价体系
-work:
+work_experience:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
     company_url: ''
