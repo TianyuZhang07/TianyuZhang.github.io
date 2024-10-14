@@ -18,7 +18,7 @@ zh:
  menu:
    main:
      - name: 传
-       url: /
+       url: '#about'
        weight: 1
     - name: 传
        url: '#about'
