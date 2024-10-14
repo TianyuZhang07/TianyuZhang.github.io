@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "3rem"
+  spacing: "2rem"
 
 sections:
   - block: resume-biography-3
@@ -64,7 +64,7 @@ sections:
         # featured_only: false
     design:
       view: citation
-  - block: resume-experience
+  - block: collection
     id: experience
     content:
       title: xxxxx
