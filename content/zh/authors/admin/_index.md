@@ -58,11 +58,8 @@ education:
     date_start: 2021-09-01
     date_end: 
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      •	导师：姚恩建教授，张峻屹教授     •	毕业设计：高速公路乘用车交通与能源网络协同规划与管理研究
+      •	研究方向：交通与能源融合；风光储充协同；运营与规划一体化；多阶段网络规划；碳减排路径；产业政策制定
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
