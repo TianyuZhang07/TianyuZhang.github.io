@@ -68,7 +68,11 @@ sections:
     id: experience
     content:
       username: admin
-    # design:
+  - block: resume-work_experience
+    content:
+      title: work_experience
+      username: admin
+  # design:
     #   # Hugo date format
     #   date_format: 'January 2006'
     #   # Education or Experience section first?
