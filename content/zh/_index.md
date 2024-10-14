@@ -64,6 +64,9 @@ sections:
         # featured_only: false
     design:
       view: citation
+  - block: markdown
+    content:
+      title: My title
   - block: resume-experience
     id: experience
     content:
