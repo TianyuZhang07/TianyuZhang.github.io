@@ -27,5 +27,5 @@ zh:
        url: '#publications'
        weight: 3
      - name: 个人经历
-       url: 'experience'
+       url: '#experience'
        weight: 4
