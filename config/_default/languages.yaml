@@ -17,15 +17,6 @@ zh:
    description: Site description in Chinese...
  menu:
    main:
-     - name: 个人主页
-      url: /
-      weight: 1
-    - name: 研究方向
-      url: /#papers
-      weight: 2
-    - name: 研究成果
-      url: /#publications
-      weight: 3
-    - name: 个人经历
-      url: experience/
-      weight: 4 
+     - name: 传
+       url: '#about'
+       weight: 1
