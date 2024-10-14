@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "3rem"
 
 sections:
   - block: resume-biography-3
@@ -45,7 +45,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Research Highlights
       filters:
         folders:
           - publication
@@ -57,11 +57,11 @@ sections:
     id: publications
     content:
       title: Recent Publications
-      text: ""
       filters:
         folders:
           - publication
-        exclude_featured: false
+        # exclude_featured: false
+        featured_only: true
     design:
       view: citation
   # - block: collection
