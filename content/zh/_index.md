@@ -67,6 +67,7 @@ sections:
   - block: resume-experience
     id: experience
     content:
+      title: 教育经历
       username: admin
     design:
       # Hugo date format
