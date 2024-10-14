@@ -18,8 +18,8 @@ zh:
  menu:
    main:
      - name: 传
-       url: /zh/#papers
+       url: /#papers
        weight: 1
      - name: 传2
-       url: /zh/#publications
+       url: /#publications
        weight: 2
