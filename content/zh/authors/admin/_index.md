@@ -147,12 +147,12 @@ skills:
         icon: camera
 
 languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  # - name: English
+  #   percent: 100
+  # - name: Chinese
+  #   percent: 75
+  # - name: Portuguese
+  #   percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
