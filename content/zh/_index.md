@@ -68,7 +68,7 @@ sections:
     id: experience
     content:
       title: xxxxx
-      username: admin
+      # username: admin
     # design:
     #   # Hugo date format
     #   date_format: 'January 2006'
@@ -84,10 +84,7 @@ sections:
     content:
       title: Awards
       username: admin
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
+
 
       
   # - block: collection
