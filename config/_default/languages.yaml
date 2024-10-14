@@ -17,12 +17,15 @@ zh:
    description: Site description in Chinese...
  menu:
    main:
-     - name: 传
+     - name: 主页
        url: ''
        weight: 1
-     - name: 传2
+     - name: 研究方向
        url: '#papers'
        weight: 2
-     - name: 传3
+     - name: 研究成果
        url: '#publications'
+       weight: 3
+     - name: 个人经历
+       url: 'experience/'
        weight: 3
