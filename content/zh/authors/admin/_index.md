@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 张天雨ssss
+title: 张天雨
 
 # Name pronunciation (optional)
-name_pronunciation: Tianyu Zhangssss
+name_pronunciation: Tianyu Zhang
 
 # Full name (for SEO)
 first_name: Tianyu
