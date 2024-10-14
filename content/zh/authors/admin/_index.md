@@ -46,7 +46,7 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/
 
-interests:
+研究方向:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
