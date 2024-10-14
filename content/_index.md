@@ -60,8 +60,8 @@ sections:
       filters:
         folders:
           - publication
-        # exclude_featured: false
-        featured_only: false
+        exclude_featured: false
+        # featured_only: false
     design:
       view: citation
   # - block: collection
