@@ -18,5 +18,5 @@ zh:
  menu:
    main:
      - name: 传
-       url: '#about'
+       url: /zh/#papers
        weight: 1
