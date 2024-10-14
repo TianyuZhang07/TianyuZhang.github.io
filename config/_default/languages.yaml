@@ -18,14 +18,14 @@ zh:
  menu:
    main:
      - name: 主页
-       url: ''
+       url: '/'
        weight: 1
      - name: 研究方向
-       url: '#papers'
+       url: '/#papers'
        weight: 2
      - name: 研究成果
-       url: '#publications'
+       url: '/#publications'
        weight: 3
      - name: 个人经历
-       url: experience
+       url: 'experience/'
        weight: 4
