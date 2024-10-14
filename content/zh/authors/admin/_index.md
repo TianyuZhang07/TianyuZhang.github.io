@@ -46,10 +46,10 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/
 
-education:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests:
+  - 交通与能源融合
+  - 
+  - 可持续发展政策研究
 
 education:
   - area: PhD Artificial Intelligence
