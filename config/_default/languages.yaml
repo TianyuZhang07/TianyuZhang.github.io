@@ -22,4 +22,7 @@ zh:
        weight: 1
      - name: 传2
        url: '#papers'
-       weight: 1
+       weight: 2
+     - name: 传3
+       url: '#publications'
+       weight: 3
