@@ -68,9 +68,9 @@ sections:
     id: experience
     content:
       username: admin
-  - block: resume-work_experience
+  - block: collection
     content:
-      title: work_experience
+      title: Awards
       username: admin
   # design:
     #   # Hugo date format
