@@ -11,7 +11,7 @@ main:
     url: /#papers
     weight: 2
   - name: Publications
-    url: experience/
+    url: /#recent publications
     weight: 3
   - name: Experience
     url: experience/
