@@ -46,7 +46,7 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/
 
-研究方向:
+education:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
