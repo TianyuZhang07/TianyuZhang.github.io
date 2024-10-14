@@ -64,26 +64,30 @@ education:
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
+  - area: 博士联合培养 土木与环境
+    institution: Nanyang Technological University
+    date_start: 2023-11-01
+    date_end: 2024-11-01
+    summary: |
+      •	导师：Wang, Zhiwei (David)教授    
+      •	毕业设计：电动汽车用户V2G模式使用选择行为建模及调度优化研究     
+      •	研究方向：用户行为建模；V2G调度
   - area: 硕士 交通规划与管理
     institution: 北京交通大学
     date_start: 2019-09-01
     date_end: 2021-06-30
     summary: |
-      •	导师：姚恩建教授，杨扬副教授     
+      •	导师：杨扬副教授     
       •	毕业设计：基于动态交通分配的高速公路网络充电设施布局优化研究     
       •	研究方向：电动汽车；充电站；双层优化模型；网络布局模型；动态交通流分配模型；多智能体仿真
-      
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: 学士 交通工程
+    institution: 北京交通大学
+    date_start: 2015-09-01
+    date_end: 2019-06-30
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      •	导师：梁肖副教授     
+      •	毕业设计：基于VR方法的连续非机动车道服务水平研究     
+      •	研究方向：非机动车道；服务水平；VR方法；符号回归算法；服务水平评价体系
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
