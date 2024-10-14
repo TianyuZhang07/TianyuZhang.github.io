@@ -53,21 +53,26 @@ interests:
   - 产业可持续发展
 
 education:
-  - area: 博士 交通规划与管理
+  - area: PhD 交通规划与管理
     institution: 北京交通大学
     date_start: 2021-09-01
     date_end: 至今
     summary: |
-      研究方向：
-      导师: 姚恩建教授，张峻屹教授
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: 硕士 交通规划与管理
+  - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
+      GPA: 3.8/4.0
+
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
