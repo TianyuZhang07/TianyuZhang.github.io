@@ -68,10 +68,6 @@ sections:
     id: experience
     content:
       username: admin
-  - block: collection
-    content:
-      title: Awards
-      username: admin
   # design:
     #   # Hugo date format
     #   date_format: 'January 2006'
