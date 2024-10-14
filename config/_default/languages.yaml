@@ -20,12 +20,3 @@ zh:
      - name: 传
        url: '#about'
        weight: 1
-     - name: 传
-       url: '#about'
-       weight: 2
-     - name: 传
-       url: '#about'
-       weight: 3
-     - name: 传
-       url: '#about'
-       weight: 4
