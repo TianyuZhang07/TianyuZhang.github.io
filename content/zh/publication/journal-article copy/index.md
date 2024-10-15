@@ -35,8 +35,8 @@ featured: false
 #   url: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 links:
-- name: "doi"
-  icon: academicons/doi
+- icon: academicons/doi
+  name: "doi"
   url: https://doi.org/10.1016/j.trd.2023.103617
 url_dataset: ''
 url_poster: ''
