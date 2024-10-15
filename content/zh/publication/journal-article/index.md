@@ -3,13 +3,14 @@ title: "An example journal article"
 authors:
 - admin
 - Robert Ford
-- admin*
+- admin *
+- **markdown**
 
 date: "2020-09-01T00:00:00Z"
-doi: "sss"
+doi: "https://doi.org/10.1016/j.trd.2023.103617"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
