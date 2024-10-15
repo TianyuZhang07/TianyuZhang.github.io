@@ -4,7 +4,6 @@ authors:
 - admin
 - Robert Ford
 - admin *
-- **markdown**
 
 date: "2020-09-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.trd.2023.103617"
