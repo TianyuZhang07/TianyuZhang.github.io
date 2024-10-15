@@ -3,7 +3,7 @@ title: "An example journal article"
 authors:
 - admin
 - Robert Ford
-- admin *
+- admin  *
 
 date: "2020-09-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.trd.2023.103617"
