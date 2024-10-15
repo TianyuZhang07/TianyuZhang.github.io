@@ -48,7 +48,7 @@ sections:
       title: Research Highlights
       filters:
         folders:
-          - publication
+          - research
         featured_only: true
     design:
       view: article-grid

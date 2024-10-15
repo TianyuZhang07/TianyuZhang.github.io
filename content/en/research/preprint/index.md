@@ -1,9 +1,7 @@
 ---
-title: "An example preprint / working paper"
-#title: "__Yao E__, Zhang T*, <strong>Z.W.Wang David</strong>, et al. Multi-stage planning and decarbonization pathways of the highway power supply network [J]. Applied Energy, 2024"
+title: "An example RESEARCH / working paper"
 authors:
 - admin
-- tom
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
