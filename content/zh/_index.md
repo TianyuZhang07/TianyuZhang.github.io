@@ -66,16 +66,16 @@ sections:
       view: citation
   - block: markdown
     content:
-      title: My title
+      title: 工作/学习经历
   - block: resume-experience
     id: experience
     content:
       username: admin
-  - block: markdown
-    content:
-      title: My title
-      subtitle: My subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+  # - block: markdown
+  #   content:
+  #     title: My title
+  #     subtitle: My subtitle
+  #     text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
   # design:
     #   # Hugo date format
     #   date_format: 'January 2006'
