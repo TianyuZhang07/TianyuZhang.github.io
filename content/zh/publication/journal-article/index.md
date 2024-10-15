@@ -76,7 +76,7 @@ Add the publication's **full text** or **supplementary notes** here. You can use
 
 
 ---
-title: "An example journal article"
+title: "An example journal article1"
 authors:
 - admin
 - Robert Ford
