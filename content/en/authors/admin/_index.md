@@ -33,8 +33,8 @@ profiles:
   - icon: at-symbol
     url: 'tianyuzhang@bjtu.edu.cn'
     label: E-mail Me
-  # - icon: brands/x
-  #   url: https://twitter.com/GetResearchDev
+  - icon: brands/weixin
+    url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
   # - icon: brands/github
