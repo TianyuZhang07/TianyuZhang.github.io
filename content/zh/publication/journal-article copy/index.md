@@ -19,7 +19,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication_short: "s s s"
 
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
@@ -34,7 +34,9 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-# doi: https://doi.org/10.1016/j.trd.2023.103617
+links:
+- name: "doi"
+  url: https://doi.org/10.1016/j.trd.2023.103617
 url_dataset: ''
 url_poster: ''
 url_project: ''
