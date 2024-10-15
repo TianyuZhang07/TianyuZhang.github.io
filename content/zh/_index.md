@@ -62,8 +62,8 @@ sections:
           - publication
         exclude_featured: false
         # featured_only: false
-    design:
-      view: citation
+    # design:
+    #   view: citation
   - block: markdown
     content:
       title: 工作/学习经历
