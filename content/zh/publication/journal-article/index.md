@@ -1,13 +1,13 @@
 ---
-title: "An example journal article"
+title: "Deploying public charging stations for battery electric vehicles on the expressway network based on dynamic charging demand"
 authors:
 - admin
 - Yang Yang
 - Yu-Ting Zhu
-- etl
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "etl"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 date: "2022-09-01T00:00:00Z"
 doi: "10.1109/TTE.2022.3141208"
 
@@ -20,7 +20,7 @@ doi: "10.1109/TTE.2022.3141208"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*IEEE Transactions on Transportation Electrification*,2022,8(2):2531-2548."
 publication_short: ""
 
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
