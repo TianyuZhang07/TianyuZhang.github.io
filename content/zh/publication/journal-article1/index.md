@@ -17,8 +17,8 @@ date: "2022-09-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
-
+# publication_types: ["article-journal"]
+# 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Transportation Electrification*[J], 2022, 8(2): 2531-2548."
 publication_short: ""
