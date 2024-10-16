@@ -2,6 +2,7 @@
 title: "Deploying public charging stations for battery electric vehicles on the expressway network based on dynamic charging demand"
 authors:
 - admin
+- Tianyuzhang
 - Yang Yang
 - Yu-Ting Zhu
 - "etl"
