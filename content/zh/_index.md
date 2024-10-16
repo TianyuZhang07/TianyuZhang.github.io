@@ -65,21 +65,21 @@ sections:
     design:
       view: citation
   - block: markdown
+    id: projects
+    content:
+      title: 科研项目
+      subtitle: My subtitle
+      text: |
+        •	导师：梁肖副教授     
+        •	毕业设计：基于VR方法的连续非机动车道服务水平研究     
+        •	研究方向：非机动车道；服务水平；VR方法；符号回归算法；服务水平评价体系
+  - block: markdown
     content:
       title: 工作/学习经历
   - block: resume-experience
     id: experience
     content:
       username: admin
-  - block: markdown
-    id: projects
-    content:
-      title: My title
-      subtitle: My subtitle
-      text: |
-        •	导师：梁肖副教授     
-        •	毕业设计：基于VR方法的连续非机动车道服务水平研究     
-        •	研究方向：非机动车道；服务水平；VR方法；符号回归算法；服务水平评价体系
   
   
   
