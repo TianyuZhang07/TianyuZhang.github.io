@@ -4,7 +4,7 @@ authors:
 - admin
 - Tianyu Zhang
 - Yang Yang
-- Yu-Ting ZhuU
+- Yu-Ting Zhu
 - "etl"
 # author_notes:
 # - "Equal contribution"
