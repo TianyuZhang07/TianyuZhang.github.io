@@ -21,14 +21,14 @@ zh:
        url: ''
        weight: 1
      - name: 研究方向
-       url: '#papers'
+       url: '/#papers'
        weight: 2
      - name: 研究成果
-       url: '#publications'
+       url: '/#publications'
        weight: 3
      - name: 科研项目
-       url: '#projects'
+       url: '/#projects'
        weight: 4
      - name: 工作经历
-       url: '#experience'
+       url: '/#experience'
        weight: 5

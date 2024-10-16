@@ -1,3 +1,7 @@
 #section-markdown .max-w-prose {
-    width: 75ch;
+    /*width: 75ch;*/
+}
+
+#publications .max-w-3xl {
+    max-width: 50rem;
 }
