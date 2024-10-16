@@ -6,7 +6,8 @@
 # Website name
 title: Tianyu Zhang(张天雨)
 # Website URL
-baseURL: 'https://example.com/'
+#baseURL: 'https://example.com/'
+baseURL: 'https://tianyuzhang07.github.io/TianyuZhang.github.io/'
 
 ############################
 ## LANGUAGE
