@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        本人在北京交通大学本硕博期间，依托综合交通运输大数据应用技术交通运输行业重点实验室，在姚恩建、张峻屹、Wang, Zhiwei (David)导师们的指导下，立足于国家“交能融合”战略，积极开展交通、电力与经济的学科交叉，主要从事在低碳交通、交通与能源融合领域中的交通数据挖掘、智能系统仿真、网络建模与优化、产业政策分析等研究。
         
-        Please reach out to collaborate 😃
+        学术成果方面，已公开发表学术论文8篇，参与国际研讨会1次，授权/公开国家发明专利3项，软著2项。其中，以第一作者/通讯作者发表中科院1区SCI论文5篇，以第二作者发表中科院1区SCI论文1篇，EI论文1篇。科研项目方面，主持中央高校基本科研项目2项，参与国家重点研发计划2项，国家自然基金项目3项，其余省部级或横向项目3项。其他方面，于2023年获博士研究生国家奖学金，担任行业TOP期刊TR-Part E、Applied Energy审稿人。
+        
+        未来，本人将继续在交通与能源融合领域进行深耕，将智能电网和交通基础设施网有效结合，智慧交通和能源管理深度融合，开拓高速公路、城市道路和铁路等不同领域的新模式和新业态，助力交通领域实现“双碳”目标。本人将加强与各学科专家、学者的交流与合作，积极探索和解决交通、电力与经济交叉领域内的复杂问题，推动交能融合的发展和创新😃
     design:
       columns: '1'
   - block: collection
