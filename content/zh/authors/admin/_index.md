@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 张天雨sss
+title: 张天雨
 
 # Name pronunciation (optional)
 name_pronunciation: Tianyu Zhang
