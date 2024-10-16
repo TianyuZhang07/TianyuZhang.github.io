@@ -72,10 +72,15 @@ sections:
     content:
       username: admin
   - block: markdown
+    id: projects
     content:
       title: My title
       subtitle: My subtitle
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+  
+  
+  
+  
   # design:
     #   # Hugo date format
     #   date_format: 'January 2006'

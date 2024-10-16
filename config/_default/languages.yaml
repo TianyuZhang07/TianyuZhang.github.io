@@ -26,6 +26,9 @@ zh:
      - name: 研究成果
        url: '#publications'
        weight: 3
+     - name: 科研项目
+       url: '#projects'
+       weight: 4
      - name: 工作经历
        url: '#experience'
-       weight: 4
+       weight: 5
