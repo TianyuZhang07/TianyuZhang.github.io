@@ -1,5 +1,5 @@
 ---
-title: 'An example RESEARCH'
+title: '交通-能源系统设计与运营'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -28,10 +28,10 @@ publishDate: '2017-01-01T00:00:00Z'
 # publication: In *Hugo Blox Builder Conference*
 # publication_short: In *ICW*
 
-摘要: 新型交通能源系统“源-网-荷-储”的协同运作被广泛认为是有效是有效提升提升两大系统的综合运营效率和推动交通领域低碳化的重要手段。我们在剖析系统内源源互补、源网协调、网荷互动、网储互动和源荷互动等多元动态交互关系的基础上，基于丰富的城市地理、交通和电网大数据，采用数据驱动和多智能体仿真技术，实现交通能源系统中“人-车-路-桩-能-信息”的协同运行与管理。为新型交通能源系统的运营管理、设施部署、产业评估提供空间粒度精细、时间粒度精确、状态维度丰富的数据基础。
+abstract: 新型交通能源系统“源-网-荷-储”的协同运作被广泛认为是有效是有效提升提升两大系统的综合运营效率和推动交通领域低碳化的重要手段。我们在剖析系统内源源互补、源网协调、网荷互动、网储互动和源荷互动等多元动态交互关系的基础上，基于丰富的城市地理、交通和电网大数据，采用数据驱动和多智能体仿真技术，实现交通能源系统中“人-车-路-桩-能-信息”的协同运行与管理。为新型交通能源系统的运营管理、设施部署、产业评估提供空间粒度精细、时间粒度精确、状态维度丰富的数据基础。
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 新型交通能源系统“源-网-荷-储”的协同运作被广泛认为是有效是有效提升提升两大系统的综合运营效率和推动交通领域低碳化的重要手段。
 
 tags:
   - 交通系统仿真
