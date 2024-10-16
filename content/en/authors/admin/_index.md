@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'tianyuzhang@bjtu.edu.cn'
+    url: 'mailto:tianyuzhang@bjtu.edu.cn'
     label: E-mail Me
   - icon: brands/weixin
     url: '18810479318'
