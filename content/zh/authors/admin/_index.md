@@ -31,16 +31,10 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'tianyuzhang@bjtu.edu.cn'
+    url: 'mailto:tianyuzhang@bjtu.edu.cn'
     label: E-mail Me
-  # - icon: brands/x
-  #   url: https://twitter.com/GetResearchDev
-  # - icon: brands/instagram
-  #   url: https://www.instagram.com/
-  # - icon: brands/github
-  #   url: https://github.com/gcushen
-  # - icon: brands/linkedin
-  #   url: https://www.linkedin.com/
+  - icon: brands/weixin
+    url: '18810479318'
   - icon: academicons/google-scholar
     url: https://scholar.google.com.hk/citations?user=MXK9cPQAAAAJ&hl=zh-CN
   - icon: academicons/orcid
