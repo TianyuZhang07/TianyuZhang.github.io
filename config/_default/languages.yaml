@@ -15,20 +15,22 @@ zh:
  title: Tianyu Zhang(张天雨)
  params:
    description: Site description in Chinese...
+
+# baseURL: 'https://tianyuzhang07.github.io/TianyuZhang.github.io/zh/'
  menu:
    main:
      - name: 主页
-       url: ''
+       url: '/zh/'
        weight: 1
      - name: 研究方向
-       url: '/#papers'
+       url: '/zh/#papers'
        weight: 2
      - name: 研究成果
-       url: '/#publications'
+       url: '/zh/#publications'
        weight: 3
      - name: 科研项目
-       url: '/#projects'
+       url: '/zh/#projects'
        weight: 4
      - name: 工作经历
-       url: '/#experience'
+       url: '/zh/#experience'
        weight: 5
