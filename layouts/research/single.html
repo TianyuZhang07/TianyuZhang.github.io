@@ -11,8 +11,8 @@
 
 <div class="mx-auto flex max-w-screen-xl">
 
-  {{ partial "components/sidebar.html" (dict "context" . "no_sidebar" true) }}
-  {{ partial "components/toc.html" . }}
+  {{/*{{ partial "components/sidebar.html" (dict "context" . "no_sidebar" true) }}
+  {{ partial "components/toc.html" . }}*/}}
   <article class="w-full break-words flex min-h-[calc(100vh-var(--navbar-height))] min-w-0 justify-center pb-8 pr-[calc(env(safe-area-inset-right)-1.5rem)]">
     <main class="w-full min-w-0 max-w-6xl px-6 pt-4 md:px-12">
 
@@ -90,9 +90,11 @@
       {{end}}
       {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
       {{/* Featured image */}}
-      <div class="article-header {{$image_container}} featured-image-wrapper mt-4 mb-16" style="max-width: {{$image.Width}}px; max-height: {{$image.Height}}px;">
+      {{/*<div class="article-header {{$image_container}} featured-image-wrapper mt-4 mb-16" style="max-width: {{$image.Width}}px; max-height: {{$image.Height}}px;">*/}}
+      <div class="article-header {{$image_container}} featured-image-wrapper mt-4 mb-16"  >
         <div style="position: relative">
-          <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ with $.Params.image.alt_text }}{{.}}{{ end }}" class="featured-image">
+          {{/*<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ with $.Params.image.alt_text }}{{.}}{{ end }}" class="featured-image">*/}}
+          <img src="{{ $featured.RelPermalink }}" alt="{{ with $.Params.image.alt_text }}{{.}}{{ end }}" class="featured-image">
           {{ with $.Params.image.caption }}<span class="article-header-caption">{{ . | markdownify | emojify }}</span>{{ end }}
         </div>
       </div>
@@ -101,7 +103,7 @@
       {{/* EVENT / PUBLICATION METADATA */}}
       {{ if .Params.abstract | or (eq .Type "publication") | or (eq .Type "event") }}
         {{/*<div class="max-w-prose grid grid-cols-1 md:grid-cols-[200px_auto] gap-4 my-6">*/}}
-        <div class="max-w-prose grid grid-cols-1  gap-4 my-6">
+        <div class="sm:max-w-prose grid grid-cols-1  gap-4 my-6">
 
 
         {{ if .Params.brief_description }}
@@ -158,7 +160,7 @@
       </div>
       {{ end }}
 
-      <div class="prose prose-slate lg:prose-xl dark:prose-invert">
+      <div class="sm:prose prose-slate lg:prose-xl dark:prose-invert">
         {{ .Content }}
       </div>
 
