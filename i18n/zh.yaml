@@ -269,3 +269,6 @@
 
 - id: published_with
   translation: 🤔
+
+- id: brief_description
+  translation: 🤔
