@@ -37,7 +37,8 @@ summary: |-
 
   此外，我们设计了面向城市内私家车通勤用户的V2G管理系统。利用居民出行调查数据和电网负荷数据，开发了一个综合的V2G响应与调度模型。它在滚动时间窗框架下，将基于单日出行链的城市小汽车充放电需求估计模型与以虚拟电价最小化为目标的电网实时有序V2G调度优化模型相结合，从而实现对城市私家车通勤用户全日在固定停车场所和非固定停车场所下的需求响应捕捉与电网管理。
 
-abstract: x
+
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 
 
