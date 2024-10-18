@@ -34,7 +34,7 @@ profiles:
     url: 'mailto:tianyuzhang@bjtu.edu.cn'
     label: E-mail Me
   - icon: brands/weixin
-    url: '18810479318'
+    url: 'tencent/weixin'
   - icon: academicons/google-scholar
     url: https://scholar.google.com.hk/citations?user=MXK9cPQAAAAJ&hl=zh-CN
   - icon: academicons/orcid
