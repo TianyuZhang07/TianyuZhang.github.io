@@ -270,7 +270,7 @@
 - id: published_with
   translation: 🤔
 
-- id: work_description
+- id: brief_description
   translation: 工作内容
 
 - id: summary
