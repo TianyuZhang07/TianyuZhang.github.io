@@ -106,13 +106,19 @@
         <div class="sm:max-w-prose grid grid-cols-1  gap-4 my-6">
 
 
-        {{ if .Params.brief_description }}
+        <!-- {{ if .Params.brief_description }}
           <div class="font-bold text-2xl">{{ i18n "brief_description" }}</div>
           <div>{{ .Params.brief_description | markdownify }}</div>
+        {{ end }} -->
+
+        {{ if .Params.work_description }}
+          <div class="font-bold text-2xl">{{ i18n "work_description" }}</div>
+          <div>{{ .Params.work_description | markdownify }}</div>
         {{ end }}
 
+
         {{ if .Params.summary }}
-          <div class="font-bold text-2xl">工作内容</div>
+          <div class="font-bold text-2xl">{{ i18n "summary" }}</div>
           <div>{{ .Params.summary | markdownify }}</div>
         {{ end }}
 
