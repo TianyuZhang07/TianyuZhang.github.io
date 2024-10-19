@@ -35,7 +35,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: /zh/uploads/resume-zh.pdf
+url_pdf: TianyuZhang.github.io/zh/publication/journal-article1/paper.pdf
 links:
 - icon: academicons/doi
   name: "doi"
