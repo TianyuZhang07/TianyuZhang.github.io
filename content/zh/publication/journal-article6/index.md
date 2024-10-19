@@ -5,9 +5,6 @@ authors:
 - Enjian Yao
 - Yang Yang
 - "etl"
-# author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
 date: "2024-06-07T00:00:00Z"
 
 
@@ -15,7 +12,7 @@ date: "2024-06-07T00:00:00Z"
 publication: "*Computer‐Aided Civil and Infrastructure Engineering*[J], 2024."
 publication_short: ""
 
-abstract: This study presents a novel multi-stage expressway fast charging station (EFCS) planning problem coordinated with the dynamic regional power structure (PS) transformation. Under the prerequisite of the EFCS network's sustainable operation, network accessibility, and orderly construction, a 3-step planning method oriented to the enhancement of energy saving and emission reduction (ESER) benefits and rationalization of facility utilization is developed: (1) EV-expanded network, (2) multi-agent-based dynamic traffic assignment (MA-DTA), and (3) deployment refinement. Embedding the MA-DTA and customized refinement strategy into the iterative planning structure enables the integration of operations and planning of the EFCS network. A numerical experiment and an empirical study in the Shandong Peninsula urban agglomeration are conducted. It demonstrates that the method can find a high-quality solution within acceptable computation time and is applicable to realistic large-scale EFCS planning. The planning method can effectively play the role of economy and facility in inducing EV users' charging demands, thus enhancing the overall ESER benefits. The integration of operation and planning is proven effective in reasonably matching the supply and demand of facility service and charging loads in a full-time period. Further, the multi-stage EFCS planning schemes during 2025-2045 are explored, and some insightful policy implications are revealed. 
+abstract: This study presents a novel multi-stage expressway fast charging station (EFCS) planning problem coordinated with the dynamic regional power structure (PS) transformation. 
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
