@@ -31,7 +31,7 @@ url_pdf: zh/publication/journal-article5/paper.pdf
 links:
 - icon: academicons/doi
   name: "doi"
-  url: https://doi.org/10.1111/mice.13216
+  url: https://doi.org/10.1111/mice.13196
 url_dataset: ''
 url_poster: ''
 url_project: ''
