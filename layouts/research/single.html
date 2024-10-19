@@ -111,12 +111,6 @@
           <div>{{ .Params.brief_description | markdownify }}</div>
         {{ end }}
 
-        {{ if .Params.work_description }}
-          <div class="font-bold text-2xl">{{ i18n "work_description" }}</div>
-          <div>{{ .Params.work_description | markdownify }}</div>
-        {{ end }}
-
-
         {{ if .Params.summary }}
           <div class="font-bold text-2xl">{{ i18n "summary" }}</div>
           <div>{{ .Params.summary | markdownify }}</div>
