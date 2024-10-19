@@ -1,5 +1,5 @@
 ---
-title: "Deployment optimization of battery swapping stations accounting for taxis’ dynamic energy demand"
+title: "Multi‐network coordinated charging infrastructure planning for the self‐sufficient renewable power highway"
 authors:
 - Tianyu Zhang
 - Enjian Yao
