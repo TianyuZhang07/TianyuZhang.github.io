@@ -31,7 +31,7 @@ url_pdf: zh/publication/journal-article4/paper.pdf
 links:
 - icon: academicons/doi
   name: "doi"
-  url: https://doi.org/10.1016/j.trd.2023.103617.
+  url: https://doi.org/10.1016/j.trd.2023.103617
 url_dataset: ''
 url_poster: ''
 url_project: ''
