@@ -27,7 +27,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: zh/publication/journal-article6/paper.pdf
+url_pdf: zh/publication/journal-article5/paper.pdf
 links:
 - icon: academicons/doi
   name: "doi"
