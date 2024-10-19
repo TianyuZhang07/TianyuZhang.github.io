@@ -35,7 +35,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: pdf/resume-zh.pdf
+url_pdf: paper.pdf
 links:
 - icon: academicons/doi
   name: "doi"
