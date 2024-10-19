@@ -1,5 +1,5 @@
 ---
-title: "Multi‐network coordinated charging infrastructure planning for the self‐sufficient renewable power highway"
+title: "Multistage charging facility planning on the expressway coordinated with the power structure transformation"
 authors:
 - Tianyu Zhang
 - Enjian Yao
@@ -8,14 +8,14 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2024-04-07T00:00:00Z"
+date: "2024-06-07T00:00:00Z"
 
 
 # Publication name and optional abbreviated publication name.
-publication: "*Computer‐Aided Civil and Infrastructure Engineering*[J], 2024;1–24."
+publication: "*Computer‐Aided Civil and Infrastructure Engineering*[J], 2024;1–23."
 publication_short: ""
 
-abstract: Developing a self-sufficient renewable power (RP) road transport (SRPRT) sys- tem is an important future direction for transport–energy integration. More well-developed studies must be conducted on the coordinated planning of transport, power supply, and power generation networks. This paper carries out the joint operation and planning of highway charging networks with the wind-photovoltaic-energy storage (HCN-WPE) system. Under multi-network integration and the interaction among multiple entities, a nested bi-level opti- mization model is proposed to optimize the users’ charging and travel behavior, charging network’s deployment, and power generation system’s (PGS) config- uration. An H-M-L algorithm structure is developed, combining the heuristic algorithm, multi-agent-based simulation technology, and linear programming algorithm. Its convergence and applicability are verified on the Nguyen-Dupius network. An empirical case in the Hu-Bao-Wu city agglomeration in China is employed to explore and discuss the managerial insights for the HCN-WPE sys- tem. The study finds that multi-network coordinated planning can improve the benefits of multiple entities, where the net present value, RP supply rate, and RP consumption rate increase by 12.0%, 3.2%, and 10.5%, compared to independent planning. Network-level planning can play a management and induction role in balancing the station’s load pressure. In addition, the PGS co-configuration can leverage the complementary power supply of multiple RP generators and the peak cutting and valley filling of energy storage systems, which is essential for achieving the SRPRT goal.
+abstract: This study presents a novel multistage expressway fast charging station (EFCS) planning problem coordinated with the dynamic regional power structure (PS) transformation. Under the prerequisite of the EFCS network's sustainable operation, network accessibility, and orderly construction, a three-step planning method oriented to the enhancement of energy saving and emission reduction (ESER) benefits and rationalization of facility utilization is developed: (i) EV-expanded network, (ii) multiagent-based dynamic traffic assignment (MA-DTA), and (iii) deployment refinement. Embedding the MA-DTA and customized refinement strategy into the iterative planning structure enables the integration of operations and planning of the EFCS network. A numerical experiment and an empirical study in the Shandong Peninsula urban agglomeration are conducted. It demonstrates that the method can find a high-quality solution within acceptable computation time and is applicable to realistic large-scale EFCS planning. The planning method can effectively play the role of economy and facility in inducing EV users' charging demands, thus enhancing the overall ESER benefits. The integration of operation and planning is proven effective in reasonably matching the supply and demand of facility service and charging loads in a full-time period. Further, the multistage EFCS planning schemes during 2025–2045 are explored, and some insightful policy implications are revealed.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -27,11 +27,11 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: zh/publication/journal-article5/paper.pdf
+url_pdf: zh/publication/journal-article6/paper.pdf
 links:
 - icon: academicons/doi
   name: "doi"
-  url: https://doi.org/10.1111/mice.13196
+  url: https://doi.org/10.1111/mice.13216
 url_dataset: ''
 url_poster: ''
 url_project: ''
