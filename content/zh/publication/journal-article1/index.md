@@ -8,7 +8,7 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2022-09-01T00:00:00Z"
+date: "2022-04-28T00:00:00Z"
 # doi: "10.1109/TTE.2022.3141208"
 
 # Schedule page publish date (NOT publication's date).
@@ -23,7 +23,7 @@ date: "2022-09-01T00:00:00Z"
 publication: "*IEEE Transactions on Transportation Electrification*[J], 2022, 8(2): 2531-2548."
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: There is an obvious gap between the rapid growth of BEV intercity travel demand and the worse deployment of charging facilities on the expressway network. With the consideration of dynamic charging demand, a bi-level model is proposed to deploy charging stations for the expressway network. The upper model aims at determining the location of charging stations and the number of chargers in each station to minimize the construction cost and total BEV travel cost. Dynamic charging demand are obtained by the lower model, which is constructed as a multiclass dynamic traffic assignment model including charging, queueing, and flow transmission processes. A genetic algorithm incorporating the method of successive averages is adopted to solve the bi-level model. A real case in the Shandong province of China is employed to evaluate the effectiveness of the proposed model and algorithm. The sensitivity analyses show that, a high level of charging service can encourage the usage of BEVs. In addition, when the BEV percentage is at a low level, planners should give priority to the quantity and location to expand charging service coverage and BEV’s travel range, then with the increasing of BEV percentage, the construction emphasis should change to charging station’s capacity.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
