@@ -12,7 +12,7 @@ date: "2024-06-07T00:00:00Z"
 publication: "*Computer‐Aided Civil and Infrastructure Engineering*[J], 2024."
 publication_short: ""
 
-abstract: This study presents a novel multi-stage expressway fast charging station (EFCS) planning problem coordinated with the dynamic regional power structure (PS) transformation. Under the prerequisite of the EFCS network's sustainable operation, network accessibility, and orderly construction, a 3-step planning method oriented to the enhancement of energy saving and emission reduction (ESER) benefits and rationalization of facility utilization is developed: (i) EV-expanded network, (ii) multi-agent-based dynamic traffic assignment (MA-DTA), and (iii) deployment refinement.
+abstract: This study presents a novel multi-stage expressway fast charging station (EFCS) planning problem coordinated with the dynamic regional power structure (PS) transformation. Under the prerequisite of the EFCS network's sustainable operation, network accessibility, and orderly construction, a 3-step planning method oriented to the enhancement of energy saving and emission reduction (ESER) benefits and rationalization of facility utilization is developed. (i) EV-expanded network, (ii) multi-agent-based dynamic traffic assignment (MA-DTA), and (iii) deployment refinement.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
