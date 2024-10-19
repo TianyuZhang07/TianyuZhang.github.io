@@ -38,7 +38,7 @@ url_pdf: zh/publication/journal-article3/paper.pdf
 links:
 - icon: academicons/doi
   name: "doi"
-  url: 10.16511/j.cnki.qhdxxb.2022.26.017
+  url: http://jst.tsinghuajournals.com/CN/10.16511/j.cnki.qhdxxb.2022.26.017
 url_dataset: ''
 url_poster: ''
 url_project: ''
