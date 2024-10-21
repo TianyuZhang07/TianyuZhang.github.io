@@ -80,7 +80,7 @@ education:
     summary: |
       •	Supervisor: Associate Prof. Liang Xiao     
       •	Dissertation: Analyzing bicycle level of service using virtual reality and deep learning technologies     
-      •	研究•	Research interests：Bicycle traffic; Bicycle level of service; Virtual Reality method;  Symbolic regression; LOS criteria
+      •	Research interests：Bicycle traffic; Bicycle level of service; Virtual Reality method;  Symbolic regression; LOS criteria
 
 # work:
   # - position: Director of Cloud Infrastructure

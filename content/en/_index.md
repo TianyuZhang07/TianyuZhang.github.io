@@ -32,20 +32,19 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 研究简介'
+      title: '📚 My Research'
       subtitle: ''
       text: |-
-        电气化交通与能源系统深度融合，对提升两大系统运营效率，实现出行便利、削峰填谷、节能减排目标具有重要作用。我们研究旨在针对交通、电力和能源耦合系统开展，构建能够准确管理出行需求、站点补给和能源供应的协同运作体系。为此，我们立足微观、中观和宏观层面，开展多网络耦合和多主体互动的交通和能源系统协同运作、优化决策和可持续发展研究。目前已陆续开展了有关高速公路“风-光-储-充”网络、出租车换电网络和城市V2G响应与调度系统的交能融合案例研究。
+        The deep integration of electrified transportation and energy systems plays an important role in enhancing the operational efficiency of the two systems and realizing the goals of travel convenience, peak shaving and valley filling, energy saving, and emission reduction. Our research is carried out for the coupled transportation, power, and energy system to develop a synergistic operation system that can accurately manage travel demand, station replenishment, and energy supply. Accordingly, at the micro-, meso- and macro-levels, we research synergistic operations, optimal decision-making, and sustainable development of transportation and energy systems with multi-network coupling and multi-agent interaction. We have successively carried out case studies on the Highway charging network with the wind-photovoltaic-energy storage, the Taxi battery swapping network, the Urban V2G (Vehicle-to-grid) response and dispatch system.
         
-        学术成果方面，已公开发表论文8篇，参与国际研讨会1次，授权/公开国家发明专利3项，软著2项。其中，以第一作者/通讯作者发表中科院1区SCI论文5篇，以第二作者发表中科院1区SCI论文1篇，EI论文1篇。研究成果发表在交通和能源领域的TOP期刊上，包括TR-Part A/D，IEEE Transactions on Transportation Electrification，Computer-Aided Civil and Infrastructure Engineering，Applied Energy。科研项目方面，主持中央高校基本科研业务2项，参与国家重点研发计划2项，国家自然基金项目2项，其余省部级或横向项目3项。        
+        Regarding academic achievements, I have published 8 academic papers, participated in 1 international symposium, authorized/publicized 3 national invention patents, and 2 soft writings. Among them, 5 SCI have been published as the first author/corresponding author in CAS Area 1, and 1 SCI in CAS Area 1 and 1 EI has been published as the second author and supervisor's first work. Research results have been published in TOP journals in transportation and energy, including TR-Part A/D, IEEE Transactions on Transportation Electrification, Computer-Aided Civil and Infrastructure Engineering, and Applied Energy. Regarding research projects, I have presided over 2 Fundamental Research Funds for the Central Universities and participated in 2 Key Programs of National Natural Foundation projects, 2 National Natural Foundation projects, and 3 provincial & ministerial projects.        
         
-        未来，我们将继续在交通与能源融合领域进行深耕，将智能电网和交通基础设施网有效结合，智慧交通和能源管理深度融合，开拓高速公路、城市道路和铁路等领域的交能融合新模式和新业态，助力交通领域实现“双碳”目标。我们衷心希望与各学科专家、学者的交流与合作，积极探索和解决交通、电力与经济交叉领域内的复杂问题。让我们共同推动交能融合的发展和创新!
-    design:
+        In the future, we will continue to work deeply in transportation and energy integration. To help the transportation sector achieve the goal of “Double carbon,” we will develop new modes and new business models for transportation and energy integration in the fields of highways, urban roads, and railroads by effectively combining the smart grid and transportation infrastructure network and deeply integrating intelligent transportation and energy management. We sincerely hope to communicate and cooperate with experts and scholars from various disciplines to actively explore and solve complex problems within the cross-field of transportation, electricity, and economy. Let’s promote the development and innovation of transportation and energy integration together!    design:
       columns: '1'
   - block: collection
     id: papers
     content:
-      title: 研究方向
+      title: Research Highlights
       filters:
         folders:
           - research
@@ -56,7 +55,7 @@ sections:
   - block: collection
     id: publications
     content:
-      title: 研究成果
+      title: Publications
       filters:
         folders:
           - publication
@@ -67,16 +66,16 @@ sections:
   - block: markdown
     id: projects
     content:
-      title: 科研项目
-      subtitle: My subtitle
+      title: Projects
+      # subtitle: My subtitle
       text: |
-        •	主持-中央高校基本科研业务-多网络耦合的高速公路充电网络协同运作与优化决策研究 2023-2025     
-        •	主持-中央高校基本科研业务-基于多用户动态交通分配的高速公路电动汽车充电站布局优化研究 2020-2022     
+        •	Project Chair-Fundamental Research Funds for the Central Universities-Research on cooperative operation and decision-making of highway charging network with multi-network coupling 2023-2025     
+        •	Project Chair-Fundamental Research Funds for the Central Universities-Research on optimizing the layout of highway electric vehicle charging station based on multi-user dynamic traffic assignment 2020-2022     
     design:
       columns: '1'
   - block: markdown
     content:
-      title: 工作/学习经历
+      title: Experience
   - block: resume-experience
     id: experience
     content:
