@@ -300,3 +300,6 @@
 
 - id: brief_description
   translation: brief_description
+
+- id: summary
+  translation: summary
