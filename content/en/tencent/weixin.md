@@ -1,5 +1,5 @@
 ---
-title: '联系方式'
+title: 'Contact'
 
 design:
   spacing: '2rem'
@@ -7,4 +7,4 @@ design:
 ---
 
 
-微信号： 18810479318
+Wechat： 18810479318
